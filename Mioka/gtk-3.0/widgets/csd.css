@@ -2,8 +2,6 @@
  * CSD *
  *******/
 .titlebar {
-    text-shadow: 0 1px @wm_title_shadow;
-
     background-image: linear-gradient(to bottom,
                                       @wm_gradient_color_a,
                                       @wm_gradient_color_b);
@@ -22,7 +20,7 @@
 }
 
 .titlebar .title {
-    font: Bold 11;
+    font: Bold 9;
 }
 
 .titlebar:backdrop {
@@ -35,7 +33,7 @@
     icon-shadow: 0px 1px @wm_title_shadow;
     color: @wm_title;
     background: none;
-    padding: 4px 8px 4px 8px;
+    padding: 0;
     border-radius: 6px;
     border-width: 1px;
     border-color: transparent;
