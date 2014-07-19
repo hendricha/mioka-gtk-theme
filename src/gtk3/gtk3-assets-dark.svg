@@ -1309,11 +1309,11 @@
     <linearGradient
        id="outerBackgroundGradient-6">
       <stop
-         style="stop-color:#a36aac;stop-opacity:1;"
+         style="stop-color:#bdfd7a;stop-opacity:1;"
          offset="0"
          id="stop3864-8-6-6" />
       <stop
-         style="stop-color:#a348b1;stop-opacity:1;"
+         style="stop-color:#aded6a;stop-opacity:1;"
          offset="1"
          id="stop3866-9-1-0" />
     </linearGradient>
@@ -2287,7 +2287,7 @@
        inkscape:label="Symbols"
        style="display:inline">
       <rect
-         style="color:#bebebe;fill:#a348b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;fill:#aded6a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect4037"
          width="13"
          height="13"
@@ -2673,7 +2673,7 @@
          height="13"
          width="13"
          id="rect4527"
-         style="color:#bebebe;fill:#a348b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;fill:#aded6a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          rx="2"
          ry="2"
@@ -5542,7 +5542,7 @@
          inkscape:connector-curvature="0"
          id="path4503-1"
          d="m 413,271 3,-1 1,2 6,-5 0,1 c 0,0 -4,4 -6,8 0,0 -2,-3 -4,-5 z"
-         style="fill:#a348b1;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
+         style="fill:#aded6a;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
     </g>
   </g>
   <g
@@ -5678,7 +5678,7 @@
        inkscape:label="Symbols"
        style="display:inline">
       <rect
-         style="color:#bebebe;fill:#a348b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;fill:#aded6a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect4538-4"
          width="8"
          height="2"
@@ -5855,7 +5855,7 @@
          sodipodi:cy="272"
          sodipodi:cx="118"
          id="path4867-7"
-         style="color:#bebebe;fill:#a348b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;fill:#aded6a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          sodipodi:type="arc" />
       <path
          sodipodi:type="arc"
