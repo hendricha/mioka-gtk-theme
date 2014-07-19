@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Moka
+Name=Mioka
 Comment=The one and only.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Moka
-MetacityTheme=Moka
+GtkTheme=Mioka
+MetacityTheme=Mioka
 IconTheme=Moka
