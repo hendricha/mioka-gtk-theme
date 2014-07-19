@@ -1,25 +1,8 @@
-Moka GTK Theme
-==============
+Mioka GTK Theme
+===============
 
-Moka is an accompanying GTK3 theme to the Moka icon set.
-
-Moka GTK Theme is distributed under the terms the GNU GPL v.3
-
-###Preamble
-
-If you find any bugs or issues with Moka or if you have a question, you can visit Moka's primary issue tracker on [GitHub](https://github.com/moka-project/moka-gtk-theme/issues).
-
-###Download
-
-Moka can be downloaded [here](http://www.mokaproject.com/moka-gtk-theme/#download) for whatever you like.
-
-###Getting the Source
-
-The source for Moka GTK3 Theme can be found [here](https://github.com/moka-project/moka-gtk-theme).
-
-Alternatively, you can clone the latest version its git repository:
-
-    git clone https://github.com/moka-project/moka-gtk-theme.git
+Mioka is a a fork of the awesome [Moka](https://github.com/moka-project/moka-gtk-theme) theme with some tweaks and added mintish green freshness.
+Mioka GTK Theme is distributed under the terms the GNU GPL v.3
 
 ###Using the Source
 
