@@ -390,7 +390,7 @@
     border-style: solid;
     border-color: @borders;
     /*padding: top left bottom right;*/
-    padding: 6px;
+    padding: 2px 4px 2px 4px;
     background-image: linear-gradient(to bottom,
                                   @gradient_color_a,
                                   @gradient_color_b
@@ -401,14 +401,14 @@
     padding: 2px 16px;
 }
 
-.header-bar .button.image-button {    
+.header-bar .button.image-button {
     /*padding: top left bottom right;*/
     padding: 6px 6px 6px 6px;
 }
 
 /* Title */
 .header-bar .title {
-    font: Bold 11;
+    font: Bold 9;
 }
 
 .header-bar .title:backdrop {
@@ -417,7 +417,7 @@
 
 /* Subtitle */
 .header-bar .subtitle {
-    font: 9;
+    font: 8;
 }
 
 .header-bar GtkComboBox,
