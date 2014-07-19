@@ -1,6 +1,6 @@
 # Moka GTK2 Theme
 
-gtk_color_scheme = "bg_color:#f7f7f7\nselected_bg_color:#a348b1\nbase_color:#fefefe" # Background: main, selected, base 
+gtk_color_scheme = "bg_color:#f7f7f7\nselected_bg_color:#accd8a\nbase_color:#fefefe" # Background: main, selected, base 
 gtk_color_scheme = "fg_color:#444\nselected_fg_color:#f3f3f3\ntext_color:#444"       # Foreground: main, selected, text
 gtk_color_scheme = "tooltip_bg_color:#444\ntooltip_fg_color:#FFF"                    # Tooltips
 gtk_color_scheme = "link_color:#a348b1"                                              # Hyperlinks
